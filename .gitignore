@@ -1,2 +1,3 @@
 # Private credentials information
 credentials.yaml
+*.yaml
