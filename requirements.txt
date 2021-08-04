@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+binance-connector=1.4.0=pypi_0
+pyyaml=5.4.1=pypi_0
+streamlit=0.85.1=pypi_0
